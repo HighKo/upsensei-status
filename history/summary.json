@@ -22,17 +22,20 @@
     "url": "https://auth.upsensei.eu/.well-known/jwks.json",
     "icon": "https://icons.duckduckgo.com/ip3/auth.upsensei.eu.ico",
     "slug": "up-sensei-auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 970,
-    "timeDay": 0,
-    "timeWeek": 929,
-    "timeMonth": 970,
-    "timeYear": 970,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 975,
+    "timeDay": 1021,
+    "timeWeek": 942,
+    "timeMonth": 975,
+    "timeYear": 975,
+    "dailyMinutesDown": {
+      "2026-07-26": 77,
+      "2026-07-25": 3
+    }
   }
 ]
