@@ -1,4 +1,4 @@
-owner: HighKo
+owner: UpSensei
 repo: upsensei-status
 
 sites:
@@ -8,7 +8,8 @@ sites:
     url: https://auth.upsensei.eu/.well-known/jwks.json
 
 status-website:
-  baseUrl: /upsensei-status
+  cname: status.upsensei.eu
+  baseUrl: /
   name: UpSensei Status
   introTitle: "**UpSensei Status**"
   introMessage: Live uptime and response-time history for UpSensei, updated automatically every 5 minutes.
